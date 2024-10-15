@@ -4,7 +4,7 @@
 char names[10][100] = {"Vaishnavi Kishor","Aiswaryaa Rajesh","Anusha Patra","Bhavishya Pattanayak","Ananya Guatam","Ritesh Mishra","Abir Majumder","Amaan Majid","Animesh Gupta","Jaswanth Sunkara"};
 int passwords[10] ={5915,5815,6489,3816,1895,9889,4826,4826,1568,1235}, flag[10];
 long int debit_card_numbers[10] ={687942415726,917429365599,710573661154,971998449229,792087236336,984068812506,175584159453,959305088852,959305088852,744717302642}, 
-balance[10] ={894418,8948,4589,489544,898489,89489,561598,589815,4898516,5918945};
+balance[10] ={894418,8934,4589,489544,898489,89489,561598,589815,4898516,5918945};
 void withdraw(int user)
 {
 if(flag[user]>3)
